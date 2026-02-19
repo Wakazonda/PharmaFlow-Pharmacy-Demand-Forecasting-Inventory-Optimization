@@ -89,7 +89,7 @@ The application will open automatically in your default web browser.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+
 
 ## License
 
